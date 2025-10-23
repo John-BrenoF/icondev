@@ -85,14 +85,3 @@ Por favor, verifique se:
 - Os SVGs estão otimizados (remova metadados desnecessários).
 - Usam atributos sem valores fixos de cor, preferencialmente usando fill="currentColor" quando apropriado.
 
-Licença
--------
-Sem uma licença definida por enquanto. Se quiser permissões claras de uso, adicione um arquivo LICENSE (por exemplo, MIT) ao repositório. Sem licença, os direitos permanecem com o autor e o uso pode ficar restrito.
-
-Créditos e contato
-------------------
-Criado por John-BrenoF. Para sugestões, reporte problemas (issues) no repositório ou entre em contato pelo perfil GitHub.
-
----
-
-Se quiser, eu atualizo o README.md no seu repositório diretamente (com uma licença padrão, badges, ou um sumário com links internos). Diga qual licença prefere e se quer que eu inclua badges (por exemplo: versão, CI ou licença). 
