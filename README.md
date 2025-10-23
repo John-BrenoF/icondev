@@ -1,2 +1,4 @@
-´´´npm i´´´ 
-´´ńpm run dev´´ś
+npm i
+
+
+npm run dev
