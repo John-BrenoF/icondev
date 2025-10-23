@@ -5,13 +5,15 @@
 aqui tu encontrara icnes svg  gratís sem cadrasto onde só é necessaario copia o svg  que deseja 
 
 
-para roda o codigo localmente digite os comandos:
+## para roda o codigo localmente digite os comandos:
+
+instala as dependencias com :
 
 ```bash
 npm i
 
 ```
-
+rodar o codigo com :
 ```bash
 npm run dev
 
